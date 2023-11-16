@@ -21,21 +21,5 @@ int main(){
     }
 
     return 0;
+    
 }
-// for (int i = 2; i <= limit; i++) {
-//        bool isPrime = true;
-
-//        // Check if the number is divisible by any number from 2 to its square root
-//        for (int j = 2; j <= sqrt(i); j++) {
-//            if (i % j == 0) {
-//                isPrime = false;
-//                break;
-//            }
-//        }
-// // If the number is prime, print it
-//        if (isPrime) {
-//            cout << i << " ";
-//        }
-//    }
-
-//    cout << endl;
